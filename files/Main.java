@@ -8,7 +8,7 @@ public class Main {
         String[][] plano = new String[3][3];
         JogoDaVelha jogo = new JogoDaVelha(plano);
 
-        jogo.jogar();
+        jogo.criarJogo();
         
     }
 }
